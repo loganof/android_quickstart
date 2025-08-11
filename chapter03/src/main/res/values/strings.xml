@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter03</string>
+    <string name="hello">你好，世界</string>
+    <string name="simple_calculator">简单计算器</string>
+    <string name="cancel">CE</string>
+    <string name="divide">/</string>
+
+</resources>
